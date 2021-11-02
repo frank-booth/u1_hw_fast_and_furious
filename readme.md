@@ -62,7 +62,7 @@ Create a new `.blog-post` corresponding to the new city added in **Part 6**. You
 
 
 ## Submission Guidelines
-- Pull Request must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/SEI-R-4-26/template_pull_request)
+- Pull Request must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/SEI-R-11-8/template_pull_request)
 
 ![Walker](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FWPvCzLY9u96wM%2Fgiphy.gif&f=1&nofb=1)
 
