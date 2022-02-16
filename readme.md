@@ -62,6 +62,10 @@ Create a new `.blog-post` corresponding to the new city added in **Part 6**. You
 
 ![Walker](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FWPvCzLY9u96wM%2Fgiphy.gif&f=1&nofb=1)
 
+## Submission Guidelines
+
+- PR must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/SEI-R-2-22/template_pull_request)
+
 ## Resources
 - This [DOM Gist](https://gist.github.com/thegitfather/9c9f1a927cd57df14a59c268f118ce86) has a helpful section on DOM querying and creation
 - [Goodnight Sweet Prince](https://www.youtube.com/watch?v=5KnFcsSIzbg&ab_channel=Movieclips)
