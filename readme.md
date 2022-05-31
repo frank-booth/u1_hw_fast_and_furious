@@ -64,7 +64,7 @@ Create a new `.blog-post` corresponding to the new city added in **Part 6**. You
 
 ## Submission Guidelines
 
-- PR must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/SEI-R-2-22/template_pull_request)
+- PR must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/SEI-R-6-21/template_pull_request)
 
 ## Resources
 - This [DOM Gist](https://gist.github.com/thegitfather/9c9f1a927cd57df14a59c268f118ce86) has a helpful section on DOM querying and creation
