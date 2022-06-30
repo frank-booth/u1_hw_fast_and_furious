@@ -1,6 +1,6 @@
 @font-face {
-    font-family: FastFuriousFont;
-    src: url(Antique-Olive-Std-Nord-Italic.ttf);
+  font-family: FastFuriousFont;
+  src: url(Antique-Olive-Std-Nord-Italic.ttf);
 }
 
 body {
@@ -14,7 +14,6 @@ header {
   text-align: center;
   margin: 3rem 0px;
 }
-
 
 img {
   width: 50%;
@@ -44,7 +43,7 @@ ul {
 }
 
 .blog-post > h1 {
-  color: #FFF;
+  color: #fff;
   margin-bottom: 3rem;
 }
 
@@ -61,12 +60,12 @@ ul {
 }
 
 .red {
-  background-color: #A00;
+  background-color: #a00;
 }
 
 .special-title {
   background-color: #000;
-  color: #FFF;
+  color: #fff;
   border-radius: 2rem;
   height: 4rem;
   width: 70%;
@@ -76,7 +75,7 @@ ul {
 }
 
 #quote-title:hover {
-  background-color: #A00;
+  background-color: #a00;
 }
 
 #quote-of-the-day {
