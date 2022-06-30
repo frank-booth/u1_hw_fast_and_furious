@@ -28,10 +28,15 @@ document.body.style.backgroundColor = "blue";
 const favThings = document.getElementById('favorite-things').querySelectorAll('li');
 favThings[5].remove()
   // Part 4
-  const special = document.getElementsByClassName('special-title')
-  for (let i=0;i<special.length;i++){
-    special[i].style.fontSize = '2rem'
-  }
+  // const special = document.getElementsByClassName('special-title')
+  // for (let i=0;i<special.length;i++){
+  //   special[i].style.fontSize = '2rem'
+  // }
+  
+  const special = document.querySelectorAll('.special-title')
+  special.forEach(fontchange => {
+    fontchange.style.fontSize = '2rem'
+  })
 
   // Part 5
 const pastRaces = document.getElementById('past-races').querySelectorAll('li');
